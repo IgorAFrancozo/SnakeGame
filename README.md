@@ -1,6 +1,6 @@
 ## Engenharia reversa SnakeGame
 
-Pequeno projeto de aprendizado na recriação de um jogo básico e classico na linguagem JAVA.
+Pequeno projeto de aprendizado na recriação de um jogo classico na linguagem JAVA.
 
 ## Observação!
 
