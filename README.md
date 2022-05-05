@@ -8,5 +8,5 @@ Se atente para o método ImageIcon para que as imagens esteja no diretório corr
 
 ## Agradecimentos
 
-A Deus
+A Deus,
 Ao Higor Nucci pelos ensinos em Java e aos meus amigos de faculdade e trabalho na Digix que sempre confiaram que isso iria funcionar.
