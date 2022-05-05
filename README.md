@@ -1,18 +1,12 @@
-## Getting Started
+## Engenharia reversa SnakeGame
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Pequeno projeto de aprendizado na recriação de um jogo básico e classico na linguagem JAVA.
 
-## Folder Structure
+## Observação!
 
-The workspace contains two folders by default, where:
+Se atente para o método ImageIcon para que as imagens esteja no diretório correto.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Agradecimentos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A Deus
+Ao Higor Nucci pelos ensinos em Java e aos meus amigos de faculdade e trabalho na Digix que sempre confiaram que isso iria funcionar.
