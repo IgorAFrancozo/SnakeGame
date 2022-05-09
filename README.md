@@ -4,4 +4,4 @@ Pequeno projeto de aprendizado na recriação de um jogo classico na linguagem J
 
 ## Observação!
 
-Se atente para o método ImageIcon para que as imagens esteja no diretório correto.
+Se atente para o método ImageIcon para que as imagens estejam no diretório correto.
